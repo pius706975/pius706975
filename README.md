@@ -1,7 +1,7 @@
-# Hi there! 👋 Welcome to My GitHub Profile!
+# Greetings! 👋 Welcome to My GitHub Profile!
 
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpius706975&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
-
+Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/pius706975/count.svg)
 
 ---
 
@@ -18,7 +18,7 @@
 
 ## 🔧 Technologies & Tools
 
-- **Programming Languages**: Golang, JavaScript, TypeScript
+- **Languages**: Golang, JavaScript, TypeScript
 - **Backend**: Golang, Gin, Node.js, Express.js
 - **Frontend**: React.js, Next.js
 - **Mobile**: React Native
