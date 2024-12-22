@@ -1,6 +1,7 @@
-# Greetings! 👋 Welcome to My GitHub Profile!
+# Hi there! 👋 Welcome to My GitHub Profile!
 
 Visitor Count
+
 ![Visitor Count](https://profile-counter.glitch.me/pius706975/count.svg)
 
 ---
