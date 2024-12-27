@@ -32,17 +32,18 @@ Visitor Count
 ## 🔨 Currently Working On
 
 ✨ **Project Name:** [Point Of Sales Web App]
-
+- **Landing Page:** [https://piopos.vercel.app/](https://piopos.vercel.app/)
 - [Backend repositories](https://github.com/pius-microservices?tab=repositories) & [Frontend repository](https://github.com/pius706975/piopos-frontend)
 - 🔗 **Created Features:** User authentication, User Management.  
-- 🛠 **Stack:** Golang with Gin, PostgreSQL, GORM, Next.js, Tailwind CSS.  
+- 🛠 **Stack:** Golang with Gin, Node.js with Express.js, PostgreSQL, GORM, Next.js, Tailwind CSS.  
+
+---
 
 ## 💬 Let's Connect!
 
 - 🌐 **Website:** [piusrestiantoro.vercel.app](https://piusrestiantoro.vercel.app/)  
 - 💼 **LinkedIn:** [linkedin.com/in/pius-restiantoro](https://www.linkedin.com/in/pius-restiantoro/)  
 - 📧 **Email:** [piusrestiantoro02@gmail.com](mailto:piusrestiantoro02@gmail.com)
-- 💻 **Ongoing Project**: [https://piopos.vercel.app/](https://piopos.vercel.app/)
 
 ---
 
