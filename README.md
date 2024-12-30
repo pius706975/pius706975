@@ -44,6 +44,7 @@ Visitor Count
 - 🌐 **Website:** [piusrestiantoro.vercel.app](https://piusrestiantoro.vercel.app/)  
 - 💼 **LinkedIn:** [linkedin.com/in/pius-restiantoro](https://www.linkedin.com/in/pius-restiantoro/)  
 - 📧 **Email:** [piusrestiantoro02@gmail.com](mailto:piusrestiantoro02@gmail.com)
+- 📚 **Blog:** [https://piusrestiantoro.vercel.app/blogs](https://piusrestiantoro.vercel.app/blogs)
 
 ---
 
