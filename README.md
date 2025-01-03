@@ -11,7 +11,7 @@ Visitor Count
 ✨ Hello! I'm **Pius Restiantoro**, a **fullstack software engineer** based in Indonesia! 🇮🇩  
 💻 I specialize in building web and mobile applications.
 
-- 🌱 **Currently learning:** Golang with micro-services concept.  
+- 🌱 **Currently learning:** Micro-services concept.  
 - 🚀 **Passionate about:** Fullstack Development, Clean Code, and Continuous Learning.  
 - 🎯 **My goal:** To make technology accessible and impactful for everyone!  
 
@@ -23,9 +23,9 @@ Visitor Count
 - **Backend**: Golang, Gin, Node.js, Express.js
 - **Frontend**: React.js, Next.js
 - **Mobile**: React Native
-- **Database**: PostgreSQL, Gorm, Sequelize, MongoDB  
+- **Database**: PostgreSQL, Gorm, Sequelize, MongoDB
 - **Styling**: Tailwind CSS, Bootstrap.
-- **Tools**: Git, Docker, VSCode, Postman, Jira  
+- **Tools**: Git, Docker, VSCode, Postman, Jira/Taiga
 
 ---
 
@@ -35,7 +35,7 @@ Visitor Count
 - **Landing Page:** [https://piopos.vercel.app/](https://piopos.vercel.app/)
 - [Backend repositories](https://github.com/pius-microservices?tab=repositories) & [Frontend repository](https://github.com/pius706975/piopos-frontend)
 - 🔗 **Created Features:** User authentication, User Management.  
-- 🛠 **Stack:** Golang with Gin, Node.js with Express.js, PostgreSQL, GORM, Next.js, Tailwind CSS.  
+- 🛠 **Stack:** Golang with Gin, Node.js with Express.js, PostgreSQL, GORM, MongoDB, Next.js, Tailwind CSS.  
 
 ---
 
