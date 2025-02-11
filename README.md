@@ -18,15 +18,9 @@ Visitor Count
 ---
 
 ## 🔧 Technologies & Tools
+![My Skills](https://skillicons.dev/icons?i=go,js,ts,php,nodejs,expressjs,react,nextjs,tailwindcss,bootstrap)
 
-- **Languages**: Golang, JavaScript, TypeScript
-- **Backend**: Golang, Gin, Node.js, Express.js
-- **Frontend**: React.js, Next.js
-- **Mobile**: React Native
-- **Database**: PostgreSQL, Gorm, Sequelize, MongoDB
-- **Styling**: Tailwind CSS, Bootstrap.
-- **Tools**: Git, Docker, VSCode, Postman, Jira/Taiga
-
+![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sequelize,github,vscode,postman,docker)
 ---
 
 ## 💬 Let's Connect!
@@ -34,7 +28,7 @@ Visitor Count
 - 🌐 **Website:** [piusrestiantoro.vercel.app](https://piusrestiantoro.vercel.app/)  
 - 💼 **LinkedIn:** [linkedin.com/in/pius-restiantoro](https://www.linkedin.com/in/pius-restiantoro/)  
 - 📧 **Email:** [piusrestiantoro02@gmail.com](mailto:piusrestiantoro02@gmail.com)
-- 📚 **Blog:** [https://piusrestiantoro.vercel.app/blogs](https://medium.com/@piusrestiantoro02)
+- 📚 **Blog:** [https://medium.com/@piusrestiantoro02](https://medium.com/@piusrestiantoro02)
 
 ---
 
@@ -45,6 +39,6 @@ Visitor Count
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pius706975&layout=compact&theme=radical)
 
 ---
-#### Feel free to connect with me or check out my repositories for awesome projects! 🚀
+#### Feel free to connect with me or check out my repositories for my projects! 🚀
 
 ## 🎉 Thanks for Visiting!
