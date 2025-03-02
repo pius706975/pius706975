@@ -20,15 +20,17 @@ Visitor Count
 ## 🔧 Technologies & Tools
 ![My Skills](https://skillicons.dev/icons?i=go,js,ts,php,nodejs,expressjs,react,nextjs,tailwindcss,bootstrap)
 
-![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sequelize,github,vscode,postman,docker)
+![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sequelize,github,vscode,postman,docker,firebase,supabase)
+
+![My Skills](https://skillicons.dev/icons?i=vercel,netlify,gcp)
 ---
 
 ## 💬 Let's Connect!
 
-- 🌐 **Website:** [piusrestiantoro.vercel.app](https://piusrestiantoro.vercel.app/)  
-- 💼 **LinkedIn:** [linkedin.com/in/pius-restiantoro](https://www.linkedin.com/in/pius-restiantoro/)  
-- 📧 **Email:** [piusrestiantoro02@gmail.com](mailto:piusrestiantoro02@gmail.com)
-- 📚 **Blog:** [https://medium.com/@piusrestiantoro02](https://medium.com/@piusrestiantoro02)
+- 🌐 [**Website**](https://piusrestiantoro.vercel.app/)  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/pius-restiantoro/)  
+- 📧 [**Email**](mailto:piusrestiantoro02@gmail.com)
+- 📚 [**Blog**](https://medium.com/@piusrestiantoro02)
 
 ---
 
