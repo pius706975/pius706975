@@ -28,7 +28,6 @@ Visitor Count
 ## 💬 Let's Connect!
 
 - 🌐 [**Website**](https://piusrestiantoro.vercel.app/)  
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/pius-restiantoro/)  
 - 📧 [**Email**](mailto:piusrestiantoro02@gmail.com)
 - 📚 [**Blog**](https://medium.com/@piusrestiantoro02)
 
