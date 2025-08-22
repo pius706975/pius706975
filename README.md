@@ -1,9 +1,5 @@
 # Hi there! 👋 Welcome to My GitHub Profile!
 
-Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/pius706975/count.svg)
-
 ---
 
 ## 🌟 About Me
@@ -18,10 +14,10 @@ Visitor Count
 ---
 
 ## 🔧 Technologies & Tools
-![My Skills](https://skillicons.dev/icons?i=go,js,ts,php,nodejs,expressjs,react,nextjs,tailwindcss,bootstrap)
-
+![My Skills](https://skillicons.dev/icons?i=go,js,ts,php,python)
+![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,react,nextjs,tailwindcss,bootstrap)
 ![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sequelize,github,vscode,postman,docker,firebase,supabase)
-
+![My Skills](https://skillicons.dev/icons?i=github,vscode,postman,docker,firebase,supabase)
 ![My Skills](https://skillicons.dev/icons?i=vercel,netlify,gcp)
 ---
 
